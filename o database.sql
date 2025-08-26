@@ -1,1 +1,1 @@
-create database humanbodydb
+create database shmillyhumun
